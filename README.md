@@ -1,0 +1,3 @@
+Hey! :)
+
+Just a bot I was working on for a server. Nothing really here anymore...
